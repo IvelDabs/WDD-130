@@ -1,0 +1,22 @@
+html {
+    background-color: rgb(125, 125, 137);
+}
+
+.info {
+    padding: 10px 30px;
+    margin: 45px 600px;
+    color: black;
+    border: 5px solid white;
+    border-radius: 40px;
+    background-color: rgb(196, 196, 201);
+    font-family: "Courier New", Courier, monospace, serif;
+    font-size: 20px;
+    font-weight: bold;
+    max-height: 100vh;
+}
+
+img {
+    border-radius: 50%;
+    height: 300px;
+    margin: 0 165px;
+}
