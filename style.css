@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(251, 165, 180);
+    font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 2em;
+}
+
+h1:hover {
+    color: black;
+}
+
+img {
+    display: block;
+    width: 20%;
+    margin: 20px auto;
+}
+ol {
+    display: block;
+    width: 28%;
+    margin: 20px auto;
+}
+
+#quote {
+    text-align: center;
+    width: 20%;
+    text-align: center;
+    margin: 30px auto;
+    line-height: 35px;
+    font-size: 25px;
+}
+p {
+    text-align: center;
+    color: white;
+    line-height: 40px;
+}
+
+footer p {
+    color: black;
+    width: 28%;
+    margin: 0 auto;
+}
