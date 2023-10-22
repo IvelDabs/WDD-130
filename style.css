@@ -1,4 +1,4 @@
-body {
+/* body {
     background-color: rgb(251, 165, 180);
     font-size: 20px;
 }
@@ -42,4 +42,13 @@ footer p {
     color: black;
     width: 28%;
     margin: 0 auto;
+} */
+
+#container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.second {
+    background-color: gray;
 }
